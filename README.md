@@ -61,7 +61,7 @@
 1. 参考[这里](https://github.com/BlueskyClouds/My-Actions/blob/master/backUp/gitSync.md)，安装[pull插件](https://github.com/apps/pull)，并确认此项目已在pull插件的作用下（参考文中1-d）。
 2. 确保.github/pull.yml文件正常存在，yml内上游作者填写正确(此项目已填好，无需更改)。
 3. 将pull.yml里面的`mergeMethod: merge`修改为`mergeMethod: hardreset`保存。
-4. ENJOY!上游更改三小时左右就会自动发起同步。
+4. ENJOY!上游更改三小时左右就会自动发起同步。 
 
 ##### 方案B - 保留自己分支的修改
 
