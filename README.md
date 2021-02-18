@@ -65,7 +65,7 @@
 
 ##### 方案B - 保留自己分支的修改
 
-> 上游变动后pull插件会自动发起pr，但如果有冲突需要自行**手动**确认。
+> 上游变动后pull插件会自动发起pr，但如果有冲突需要自行**手动**确认 。
 > 如果上游更新涉及workflow里的文件内容改动，需要自行**手动**确认。
 
 1. 参考[这里](https://github.com/BlueskyClouds/My-Actions/blob/master/backUp/gitSync.md)，安装[pull插件](https://github.com/apps/pull)，并确认此项目已在pull插件的作用下（参考文中1-d）。
